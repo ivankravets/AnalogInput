@@ -1,0 +1,11 @@
+{
+	"name": "AnalogInput",
+	"description": "Provides an easy way to automatically calibrate an analog input on an Arduino board.",
+	"keywords": "analog input calibrate",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/"
+	},
+	"version": "1.0.0",
+	"downloadUrl": "file:///Users/johnogle/Documents/Arduino/libraries/AnalogInput/"
+}
